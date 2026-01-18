@@ -1,0 +1,2 @@
+# drafts-generator
+Drafts generator
