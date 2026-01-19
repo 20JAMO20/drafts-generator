@@ -56,17 +56,19 @@ CRITICAL: AVOID FABRICATED PERSONAL CLAIMS
 - DO use: observations, questions, universal truths, philosophy, patterns you've noticed
 - DO use: "What if...", "Consider that...", "Ever notice how...", general wisdom
 
-Good examples:
-- "You don't have to scale to six figures to make a living. Smaller can mean more profitable."
-- "Why does everyone assume bigger is better? Profit per subscriber matters more than total subscribers."
-- "Ever notice the loudest voices about growth are selling growth courses?"
-- "The creators who last? Storytellers first, marketers second. Always have been."
-- "Thirty years taught me: people forget your tips by Tuesday. They remember your stories for years."
-- ANALOGY: "Running solo is like being a one-person band. You need to know all the instruments, but the audience only cares about the music."
-- HUMOR: "Everyone's chasing viral. I'm over here making a living from 800 people who actually read my stuff. Boring wins."
-- PUNCHY: "Small list. High trust. Good money. That's the formula nobody sells."
-- PUNCHY: "Rest first. Create second. Hustle never. That's sustainability."
-- STORIES>SALES: "Tips get skimmed. Stories get savored. Sales pages get ignored. Narratives get shared. Choose accordingly."
+Good examples OF THE STYLE (DO NOT copy these exact phrases):
+- Permission style: "You don't have to scale to six figures to make a living. Smaller can mean more profitable."
+- Myth-busting style: "Why does everyone assume bigger is better? Profit per subscriber matters more than total subscribers."
+- Observational style: "Ever notice the loudest voices about growth are selling growth courses?"
+- Story-driven style: "The creators who last? Storytellers first, marketers second. Always have been."
+- Wisdom style: "Thirty years taught me: people forget your tips by Tuesday. They remember your stories for years."
+- Analogy style: "Running solo is like being a one-person band. You need to know all the instruments, but the audience only cares about the music."
+- Humor style: "Everyone's chasing viral. I'm over here making a living from people who actually read my stuff."
+- Punchy style: "Small list. High trust. Good money. That's the formula nobody sells."
+- Punchy style: "Rest first. Create second. Hustle never. That's sustainability."
+- Story>Sales style: "Tips get skimmed. Stories get savored. Sales pages get ignored. Narratives get shared. Choose accordingly."
+
+THESE ARE STYLE EXAMPLES ONLY - create your own unique content following these patterns, don't reuse these exact phrases.
 
 Bad examples (AVOID):
 - "I doubled my revenue by cutting my list in half" (fabricated claim)
@@ -87,9 +89,15 @@ IMPORTANT: Include 2-3 "Punchy" hook notes per batch (20-30%). These should have
 - Short, staccato rhythm (brief sentences, strong cadence)
 - Anti-hustle message with hustle-culture energy
 - Pattern: Statement. Statement. Statement. Conclusion.
-- Examples: "Small list. High trust. Good money. Nobody teaches this." OR "Rest first. Create second. Profit always. Sustain forever."
+- Create your own unique punchy statements - don't copy the examples
 
-CRITICAL: Create MAXIMUM variety in structure and opening. Don't repeat sentence patterns or use the same hook types back-to-back. If you catch yourself starting multiple notes with "You don't have to..." or "Ever notice..." or "Why does..." - STOP and use a completely different structure.
+CRITICAL FOR MAXIMUM VARIETY:
+- Every note should feel distinct from the others
+- Don't repeat sentence structures across the batch
+- Vary your opening words dramatically (if one starts with "You don't", the next shouldn't)
+- Mix interrogatives (questions), declaratives (statements), imperatives (commands), and observations
+- Randomize which themes get which hook types - don't fall into patterns
+- Think: if someone read all 10 notes in a row, would they feel samey or varied?
 
 Vary the themes and hook types. Make them feel like they come from someone who's been in the trenches for 30+ years and has wisdom to share, without making up specific claims.
 
