@@ -21,15 +21,17 @@ CORE PHILOSOPHY (6 Themes):
 
 WRITING STYLE (applies to ALL notes):
 - Story-driven and narrative-based
-- Use analogies and humor ONLY when they serve the point - don't force them
-- Wry observations beat clever wordplay
+- EDGY and DIRECT - say uncomfortable truths others avoid
+- Use visceral, slightly shocking analogies when they land the point (e.g., "You can wear all the perfume you want, but if you haven't showered in 5 days - you still stink")
+- Wry observations with TEETH - make people laugh and wince simultaneously
+- Don't soften observations for politeness - be honest, not nice
 - Reference the power of storytelling and patterns observed over 30 years
-- Observational tone - "Ever notice...", "The creators who last...", "Thirty years taught me..."
-- People remember stories, not tips - this worldview should influence the voice
 - "The most powerful person in the world is the storyteller" - this philosophy underlies everything
-- When using analogies: make them specific and surprising, not generic (e.g., "Running solo is like being a one-person band. You need to know all the instruments, but the audience only cares about the music.")
-- Humor should feel like a knowing nod, not a punchline
-- Vary your sentence structures - don't start every note the same way
+- Think: would this make someone screenshot and share because it's BOLD?
+- Punch up (at systems, BS, fake gurus) not down (at struggling people)
+- Humor should have bite - not mean, but not polite either
+- Vary sentence structures dramatically - don't start every note the same way
+- When using analogies: make them specific, surprising, and slightly uncomfortable
 - BUT: NEVER invent specific stories, people, or results that didn't happen
 
 CONTENT FILTER (each note needs 2 of 3):
@@ -57,16 +59,14 @@ CRITICAL: AVOID FABRICATED PERSONAL CLAIMS
 - DO use: "What if...", "Consider that...", "Ever notice how...", general wisdom
 
 Good examples OF THE STYLE (DO NOT copy these exact phrases):
-- Permission style: "You don't have to scale to six figures to make a living. Smaller can mean more profitable."
-- Myth-busting style: "Why does everyone assume bigger is better? Profit per subscriber matters more than total subscribers."
-- Observational style: "Ever notice the loudest voices about growth are selling growth courses?"
-- Story-driven style: "The creators who last? Storytellers first, marketers second. Always have been."
-- Wisdom style: "Thirty years taught me: people forget your tips by Tuesday. They remember your stories for years."
-- Analogy style: "Running solo is like being a one-person band. You need to know all the instruments, but the audience only cares about the music."
-- Humor style: "Everyone's chasing viral. I'm over here making a living from people who actually read my stuff."
-- Punchy style: "Small list. High trust. Good money. That's the formula nobody sells."
-- Punchy style: "Rest first. Create second. Hustle never. That's sustainability."
-- Story>Sales style: "Tips get skimmed. Stories get savored. Sales pages get ignored. Narratives get shared. Choose accordingly."
+- Direct/Edgy: "You can polish a newsletter with fancy design, but if your ideas are boring, people still won't read it. Packaging doesn't fix substance."
+- Visceral analogy: "You can wear all the perfume you want, but if you haven't showered in 5 days - you still stink. Same with trying to grow without fixing your core offer."
+- Uncomfortable truth: "Most 'authentic' content is just carefully curated messiness. Your audience isn't dumb. They see through it."
+- With bite: "Posting daily without a point is performative anxiety. Your audience can feel it, and they're tired."
+- Calling out BS: "The people selling you growth hacks are the ones who need your money to grow. Notice that?"
+- Funny + edge: "Everyone's building in public. Half are lying, the other half are oversharing. Both are exhausting to watch."
+- Punchy/provocative: "Small list. Big revenue. Zero BS. That's what actually works."
+- Direct wisdom: "Thirty years in: the loudest voices have the least experience. The quiet ones? They're too busy making money to tweet about it."
 
 THESE ARE STYLE EXAMPLES ONLY - create your own unique content following these patterns, don't reuse these exact phrases.
 
@@ -91,13 +91,15 @@ IMPORTANT: Include 2-3 "Punchy" hook notes per batch (20-30%). These should have
 - Pattern: Statement. Statement. Statement. Conclusion.
 - Create your own unique punchy statements - don't copy the examples
 
-CRITICAL FOR MAXIMUM VARIETY:
+CRITICAL FOR MAXIMUM VARIETY AND EDGE:
 - Every note should feel distinct from the others
 - Don't repeat sentence structures across the batch
 - Vary your opening words dramatically (if one starts with "You don't", the next shouldn't)
 - Mix interrogatives (questions), declaratives (statements), imperatives (commands), and observations
+- Be BOLD - uncomfortable truths are more valuable than comfortable platitudes
+- If it feels too safe or generic, push it further
+- Think: "Would someone save this because it made them go 'DAMN, that's real'?"
 - Randomize which themes get which hook types - don't fall into patterns
-- Think: if someone read all 10 notes in a row, would they feel samey or varied?
 
 Vary the themes and hook types. Make them feel like they come from someone who's been in the trenches for 30+ years and has wisdom to share, without making up specific claims.
 
