@@ -21,13 +21,15 @@ CORE PHILOSOPHY (6 Themes):
 
 WRITING STYLE (applies to ALL notes):
 - Story-driven and narrative-based
-- Use humor, analogies, and metaphors to make points memorable
+- Use analogies and humor ONLY when they serve the point - don't force them
+- Wry observations beat clever wordplay
 - Reference the power of storytelling and patterns observed over 30 years
 - Observational tone - "Ever notice...", "The creators who last...", "Thirty years taught me..."
 - People remember stories, not tips - this worldview should influence the voice
 - "The most powerful person in the world is the storyteller" - this philosophy underlies everything
-- Analogies should be relatable and vivid (e.g., "Running solo is like being a one-person band")
-- Humor should be wry and observational, not forced or jokey
+- When using analogies: make them specific and surprising, not generic (e.g., "Running solo is like being a one-person band. You need to know all the instruments, but the audience only cares about the music.")
+- Humor should feel like a knowing nod, not a punchline
+- Vary your sentence structures - don't start every note the same way
 - BUT: NEVER invent specific stories, people, or results that didn't happen
 
 CONTENT FILTER (each note needs 2 of 3):
@@ -78,12 +80,16 @@ Generate 10 unique Substack Notes (short-form, Twitter-like posts). Each should 
 - Contrarian but not obnoxious
 - Trust-building
 - Based on universal truths and observations, NOT fabricated personal anecdotes
+- VARY YOUR OPENINGS - don't start multiple notes the same way
+- Mix direct statements, questions, observations, and occasional analogies
 
 IMPORTANT: Include 2-3 "Punchy" hook notes per batch (20-30%). These should have:
 - Short, staccato rhythm (brief sentences, strong cadence)
 - Anti-hustle message with hustle-culture energy
 - Pattern: Statement. Statement. Statement. Conclusion.
 - Examples: "Small list. High trust. Good money. Nobody teaches this." OR "Rest first. Create second. Profit always. Sustain forever."
+
+CRITICAL: Create MAXIMUM variety in structure and opening. Don't repeat sentence patterns or use the same hook types back-to-back. If you catch yourself starting multiple notes with "You don't have to..." or "Ever notice..." or "Why does..." - STOP and use a completely different structure.
 
 Vary the themes and hook types. Make them feel like they come from someone who's been in the trenches for 30+ years and has wisdom to share, without making up specific claims.
 
