@@ -11,13 +11,23 @@ export default async function handler(req, res) {
 
   const prompt = `You are generating Substack Notes for a newsletter creator with 30+ years of solo business experience who takes an anti-hustle, trust-building approach.
 
-CORE PHILOSOPHY (6 Themes):
-1. Small>Scale - Trusting you don't need to be huge to succeed
-2. Premium>Cheap - Trusting your value enough to charge what you're worth
-3. Rest>Hustle - Trusting that sustainable pace beats burnout
-4. Enough>More - Trusting you have enough and are enough
-5. Stories>Sales - Trusting authentic storytelling over hard selling (emphasize the POWER of stories, reference that people remember stories not tactics, challenge tips-and-tactics culture)
-6. 30+ Years Wisdom - Trusting accumulated wisdom over trends
+CORE PHILOSOPHY (6 Themes - ALL filtered through TRUST):
+1. Small>Scale - Trusting you don't need to be huge to succeed; small promises kept build bigger trust
+2. Premium>Cheap - Trusting your value enough to charge what you're worth; trust allows premium pricing
+3. Rest>Hustle - Trusting that sustainable pace beats burnout; breaking promises to yourself through overwork destroys trust
+4. Enough>More - Trusting you have enough and are enough; the chase for "more" is often distrust in what you have
+5. Stories>Sales - Trusting authentic storytelling over hard selling; stories build trust, sales pitches break it
+6. 30+ Years Wisdom - Trusting accumulated wisdom over trends; trust comes from follow-through over decades
+
+TRUST AS THE FOUNDATION:
+Every note should connect to trust in some way:
+- Self-trust (keeping promises to yourself)
+- Trust with audience (showing up, following through)
+- Trust vs performance (authentic action vs looking busy)
+- Small commitments that build to bigger trust
+- The gap between what we say and what we do
+- How broken promises compound into broken trust
+- Trust isn't built in big moments—it's built in tiny daily commitments
 
 WRITING STYLE (applies to ALL notes):
 - Your goal: trigger an "Oof, I feel seen" response
@@ -72,18 +82,19 @@ CRITICAL: AVOID FABRICATED PERSONAL CLAIMS
 
 Good examples OF THE STYLE (DO NOT copy these exact phrases):
 
-FORMULA 1 EXAMPLES ("Do you ever wonder"):
-- "Do you ever wonder why we have more self-help books than we have actual helpful habits? What if your library of wisdom is just an expensive way to feel productive while avoiding the discomfort of actual change? Something to think about!"
-- "Do you ever wonder why we pretend 'I'm not ready yet' isn't just fear wearing a fancy mask? What if your perfect moment is actually hiding behind the messy action you're avoiding? Something to think about!"
-- "Do you ever wonder why we call it 'building an audience' when we're really just avoiding conversations with the people already here? What if growth is the excuse we use to ignore depth? Something to think about!"
+FORMULA 1 EXAMPLES ("Do you ever wonder") - with trust themes:
+- "Do you ever wonder why we're so good at making promises and so terrible at keeping them? What if trust isn't built in the big moments—it's built in the tiny Tuesday morning commitments nobody sees? Something to think about!"
+- "Do you ever wonder why we have more self-help books than we have actual helpful habits? What if your library of wisdom is just an expensive way to avoid keeping small promises to yourself? Something to think about!"
+- "Do you ever wonder why we demand loyalty from our audience but can't show up consistently for ourselves? What if the trust you're trying to build out there starts with the promises you keep in here? Something to think about!"
 
-FORMULA 2 EXAMPLES ("Isn't it weird"):
-- "Isn't it weird how we collect courses like trophies but never finish them? What if learning more is just a socially acceptable way to delay doing the scary thing? Let that marinate a bit."
-- "Isn't it weird how we romanticize 'busy' but never talk about what we're avoiding by staying busy? What if all that hustle is just expensive procrastination? Let that marinate a bit."
+FORMULA 2 EXAMPLES ("Isn't it weird") - with trust themes:
+- "Isn't it weird how we call it 'building trust' with our audience while breaking promises to ourselves daily? What if they can smell the disconnect? Let that marinate a bit."
+- "Isn't it weird how we preach consistency but ghost our own commitments when nobody's watching? What if self-trust is the only trust that actually matters? Let that marinate a bit."
 
-PUNCHY EXAMPLES:
-- "Small list. Real conversations. Actual revenue. Not sexy. Not scalable. Works."
-- "Rest isn't laziness. Burnout isn't a badge. Sustainability beats intensity. Every single time."
+PUNCHY EXAMPLES - with trust themes:
+- "Small promise. Kept it. Repeat. That's how trust gets built. Not sexy. Not scalable. Actually works."
+- "Trust isn't a strategy. Follow-through is. Show up. Keep promises. Compound over time. Simple."
+- "Your audience doesn't trust your tactics. They trust your track record. Act accordingly."
 
 THESE ARE STYLE EXAMPLES ONLY - create your own unique content following these patterns, don't reuse these exact phrases.
 
@@ -110,14 +121,16 @@ IMPORTANT: Include 2-3 "Punchy" hook notes per batch (20-30%). These should have
 
 CRITICAL REQUIREMENTS:
 - Goal: "Oof, I feel seen" reaction - make them laugh and wince
-- Name specific ways people fool themselves (not generic advice)
+- EVERY note should connect to trust in some way (self-trust, keeping promises, follow-through, the gap between words and action)
+- Name specific ways people fool themselves about trust and commitment
 - Flip it with a truth that's obvious once stated but uncomfortable
 - Always use "we" not "you" or "people" - be inclusive
 - No preaching, just exposing what we already know deep down
 - Make it personal and specific, never abstract
 - The discomfort should feel like recognition, not attack
+- Trust themes: promises kept vs broken, showing up, consistency, self-trust as foundation, small commitments that compound
 - Vary which themes get which formulas - don't be predictable
-- Each note should expose a different comfortable lie we tell ourselves
+- Each note should expose a different comfortable lie we tell ourselves about trust, commitment, or follow-through
 
 Vary the themes and hook types. Make them feel like they come from someone who's been in the trenches for 30+ years and has wisdom to share, without making up specific claims.
 
