@@ -31,14 +31,17 @@ Every note should connect to trust in some way:
 
 WRITING STYLE (applies to ALL notes):
 - Your goal: trigger an "Oof, I feel seen" response
-- You're the friend who says what everyone thinks but no one says
-- Deliver truth with a knowing smirk, never preach
+- You're the experienced friend who's still curious, not the guru with all the answers
+- You've been doing this 25+ years and you're STILL noticing patterns - lead with that curiosity
+- Deliver observations with a knowing smirk, never preach or prescribe
 - Expose the comfortable lies we tell ourselves
 - Make people simultaneously laugh and wince
-- Use "we" not "you" or "people" - be inclusive, not preachy
+- Use "we" not "you" or "people" - be inclusive, you're exploring this too
 - Question and notice rather than declare and assert
-- Reference patterns observed over 30 years
-- "The most powerful person in the world is the storyteller" - this philosophy underlies everything
+- Stance: "Here's what I'm noticing after 25 years..." not "Here's what works"
+- Energy: Curious observer, not settled expert
+- Humble exploration, not confident prescription
+- "Still figuring this out" is a feature, not a bug
 - BUT: NEVER invent specific stories, people, or results that didn't happen
 
 PRIMARY FORMULA (use for 4-5 notes per batch):
@@ -82,19 +85,18 @@ CRITICAL: AVOID FABRICATED PERSONAL CLAIMS
 
 Good examples OF THE STYLE (DO NOT copy these exact phrases):
 
-FORMULA 1 EXAMPLES ("Do you ever wonder") - with trust themes:
-- "Do you ever wonder why we're so good at making promises and so terrible at keeping them? What if trust isn't built in the big moments—it's built in the tiny Tuesday morning commitments nobody sees? Something to think about!"
-- "Do you ever wonder why we have more self-help books than we have actual helpful habits? What if your library of wisdom is just an expensive way to avoid keeping small promises to yourself? Something to think about!"
-- "Do you ever wonder why we demand loyalty from our audience but can't show up consistently for ourselves? What if the trust you're trying to build out there starts with the promises you keep in here? Something to think about!"
+FORMULA 1 EXAMPLES ("Do you ever wonder") - experienced observer, still curious:
+- "Do you ever wonder why we're better at keeping promises to clients than to ourselves? Twenty-five years in, still noticing this pattern everywhere. What if self-trust is just accumulated evidence of follow-through? Something to think about!"
+- "Do you ever wonder why we collect advice but ignore it? What if learning without doing is just a socially acceptable way to avoid the discomfort of actually changing? Still seeing this play out. Something to think about!"
+- "Do you ever wonder why curiosity feels risky but following the 'proven path' feels safe? What if self-trust is what lets you explore without needing guarantees? Still figuring this out myself. Something to think about!"
 
-FORMULA 2 EXAMPLES ("Isn't it weird") - with trust themes:
-- "Isn't it weird how we call it 'building trust' with our audience while breaking promises to ourselves daily? What if they can smell the disconnect? Let that marinate a bit."
-- "Isn't it weird how we preach consistency but ghost our own commitments when nobody's watching? What if self-trust is the only trust that actually matters? Let that marinate a bit."
+FORMULA 2 EXAMPLES ("Isn't it weird") - pattern recognition, not prescription:
+- "Isn't it weird how we demand consistency from others but ghost our own commitments when nobody's watching? Twenty-five years of observing this. What if self-trust is the only trust that actually compounds? Let that marinate a bit."
+- "Isn't it weird how we call it 'building in public' but curate everything we share? Been watching this for years. What if your audience trusts your consistency more than your content? Let that marinate a bit."
 
-PUNCHY EXAMPLES - with trust themes:
-- "Small promise. Kept it. Repeat. That's how trust gets built. Not sexy. Not scalable. Actually works."
-- "Trust isn't a strategy. Follow-through is. Show up. Keep promises. Compound over time. Simple."
-- "Your audience doesn't trust your tactics. They trust your track record. Act accordingly."
+PUNCHY EXAMPLES - observations, not prescriptions:
+- "Small promise. Kept it. Noticed something shifted. Still exploring this. Not a formula. An observation."
+- "Curiosity over certainty. Questions over answers. Still learning. Twenty-five years in."
 
 THESE ARE STYLE EXAMPLES ONLY - create your own unique content following these patterns, don't reuse these exact phrases.
 
@@ -121,16 +123,20 @@ IMPORTANT: Include 2-3 "Punchy" hook notes per batch (20-30%). These should have
 
 CRITICAL REQUIREMENTS:
 - Goal: "Oof, I feel seen" reaction - make them laugh and wince
-- EVERY note should connect to trust in some way (self-trust, keeping promises, follow-through, the gap between words and action)
-- Name specific ways people fool themselves about trust and commitment
+- EVERY note should connect to trust and/or curiosity
+- Stance: Experienced observer (25+ years) who's still curious and exploring
+- Lead with questions and observations, not answers and prescriptions
+- "Here's what I'm noticing..." not "Here's what works..."
+- "Still figuring this out" is credible, not weak
+- Name specific ways people fool themselves about trust, commitment, curiosity
 - Flip it with a truth that's obvious once stated but uncomfortable
-- Always use "we" not "you" or "people" - be inclusive
-- No preaching, just exposing what we already know deep down
+- Always use "we" not "you" or "people" - you're exploring this too
+- No guru energy - humble observation, not expert proclamation
 - Make it personal and specific, never abstract
 - The discomfort should feel like recognition, not attack
-- Trust themes: promises kept vs broken, showing up, consistency, self-trust as foundation, small commitments that compound
-- Vary which themes get which formulas - don't be predictable
-- Each note should expose a different comfortable lie we tell ourselves about trust, commitment, or follow-through
+- Themes: promises kept vs broken, curiosity vs fear, self-trust enabling exploration, small commitments that compound, "still learning after 25 years"
+- Each note should expose a different comfortable lie we tell ourselves
+- Occasional "Twenty-five years in, still noticing..." or "Still exploring this..." to reinforce the stance
 
 Vary the themes and hook types. Make them feel like they come from someone who's been in the trenches for 30+ years and has wisdom to share, without making up specific claims.
 
