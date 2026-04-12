@@ -37,7 +37,7 @@ function buildPrompt(mode, story, theme, length, cta, outputs, splitScripts) {
 
 BACKGROUND (use naturally, never as a resume):
 - 30+ years in business, 25+ years as a physician recruiter
-- Built BackupOnCall (AI voice agent) and QuizCal (quiz-to-lead-gen tool) without a coding background
+- Built three AI-powered products without a coding background — BackupOnCall (AI voice agent for small businesses), HireHotline (AI candidate screening for companies hiring), and QuizCal (quiz-to-lead-gen tool)
 - Core philosophy: Small > Scale, Premium > Cheap, Rest > Hustle, Enough > More, Stories > Sales`;
 
   const tiktokInstruction = outputs.tiktok ? `OUTPUT: TIKTOK SCRIPT${mode === 'found' && splitScripts ? 'S (SPLIT: YES — two parts)' : mode === 'found' ? ' (SPLIT: NO — single script)' : ''}
