@@ -199,7 +199,6 @@ Examples:
         <nav style={s.nav}>
           <a href="/" style={s.navLink}>Notes</a>
           <a href="/notes" style={s.navLink}>Notes v2</a>
-          <a href="/newsletter" style={s.navLink}>Newsletter</a>
           <a href="/studio" style={s.navActive}>Studio</a>
         </nav>
       </div>
