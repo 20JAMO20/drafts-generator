@@ -5,12 +5,13 @@ const TYPE_CONFIG = {
   quick:    { label: '⚡ Quick Hit',    color: '#1e5c1e', bg: '#eaf4ea', border: '#b8d8b8' },
   face:     { label: '🔥 In Your Face', color: '#8b1a1a', bg: '#fdeaea', border: '#f0b8b8' },
   encourage:{ label: '💛 Encouraging',  color: '#1a2e8b', bg: '#eaeefd', border: '#b8c4f0' },
+  reframe:  { label: '🔄 Reframe',      color: '#5b2d8e', bg: '#f3eefe', border: '#d4b8f0' },
   quiz:     { label: '🎯 Quiz Promo',   color: '#6b4800', bg: '#fdf3e0', border: '#e8cc88' },
 };
 
 export default function Notes() {
   const [topic, setTopic] = useState('');
-  const [activeTypes, setActiveTypes] = useState(['quick', 'face', 'encourage', 'quiz']);
+  const [activeTypes, setActiveTypes] = useState(['quick', 'face', 'encourage', 'reframe', 'quiz']);
   const [perCount, setPerCount] = useState(1);
   const [notes, setNotes] = useState([]);
   const [loading, setLoading] = useState(false);
@@ -139,7 +140,6 @@ export default function Notes() {
       </header>
 
       <div className="main">
-        {/* Controls */}
         <div className="panel">
           <span className="panel-label">Topic or Theme</span>
           <textarea
@@ -181,7 +181,6 @@ export default function Notes() {
           </button>
         </div>
 
-        {/* Output */}
         <div className="output">
           {loading && (
             <div className="loading">

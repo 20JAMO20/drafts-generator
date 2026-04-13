@@ -13,6 +13,7 @@ export default async function handler(req, res) {
     quick: 'Quick Hit',
     face: 'In Your Face',
     encourage: 'Encouraging',
+    reframe: 'Reframe',
     quiz: 'Quiz Promo'
   };
 
@@ -32,6 +33,9 @@ VOICE RULES (non-negotiable):
 - Short sentences. No fluff. Simple words.
 - Sound like a person talking, not an article
 - No fake statistics or invented details
+- The flip must happen early — don't build to it, lead with it
+- Short lines do emotional work. Don't combine what belongs on separate lines.
+- Closing lines give permission or direction. Never a question.
 
 NOTE TYPES:
 
@@ -41,6 +45,19 @@ IN YOUR FACE: Direct, slightly confrontational truth. Challenges a common assump
 
 ENCOURAGING: Warm, permission-giving, reassuring. For the person who doubts themselves. 2-4 sentences. Never preachy.
 
+REFRAME: Names a belief the reader holds that is quietly limiting them — often a fear or doubt. Flips it in line 1 or 2. Stacks 2-3 short proof lines that build momentum. Lands on a fresh label for the opposite of that belief. Closes with one forward-pointing sentence that gives permission or direction. 4-6 lines max. No hedging. No URL.
+
+Example of the Reframe structure that works:
+Your years of experience aren't baggage to overcome.
+They're your moat.
+You've seen what works and what doesn't.
+You've handled real problems, real people, real stakes.
+That's not a disadvantage at 50+.
+That's your unfair advantage.
+Build from there.
+
+Use this as your structural model, not your template. Different belief, different flip, different label each time.
+
 QUIZ PROMO: 2-3 sentences connecting to a theme, then a soft CTA to one of these quizzes at solopreneurstory.net:
   - "Are you ready to go solo?"
   - "What kind of solopreneur are you?"
@@ -49,7 +66,7 @@ QUIZ PROMO: 2-3 sentences connecting to a theme, then a soft CTA to one of these
   - "Is AI making your experience obsolete?"
 
 Respond ONLY with valid JSON. No markdown, no backticks, no explanation. Format:
-{"notes":[{"type":"quick|face|encourage|quiz","text":"note text here"}]}`;
+{"notes":[{"type":"quick|face|encourage|reframe|quiz","text":"note text here"}]}`;
 
   const userPrompt = `Generate: ${requested}. ${topic ? 'Topic: ' + topic : 'Use evergreen solopreneur themes — experience, pricing, AI, starting late, going solo.'} Return ONLY valid JSON.`;
 
