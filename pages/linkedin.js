@@ -361,6 +361,12 @@ export default function LinkedIn() {
         <div className="header">
           <h1>LinkedIn Post Generator</h1>
           <p>BackupOnCall · HireHotline · Posts that perform</p>
+          <nav style={{ marginTop: 8, display: 'flex', gap: 16 }}>
+  <a href="/" style={{ fontSize: '0.8rem', color: '#555', textDecoration: 'none' }}>Notes</a>
+  <a href="/notes" style={{ fontSize: '0.8rem', color: '#555', textDecoration: 'none' }}>Notes v2</a>
+  <a href="/studio" style={{ fontSize: '0.8rem', color: '#555', textDecoration: 'none' }}>Studio</a>
+  <span style={{ fontSize: '0.8rem', color: '#888' }}>LinkedIn</span>
+</nav>
         </div>
 
         {/* Product */}

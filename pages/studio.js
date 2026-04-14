@@ -198,8 +198,9 @@ Examples:
         <span style={{ fontFamily: 'sans-serif', fontSize: 11, color: '#a09890', letterSpacing: 1.5 }}>CONTENT STUDIO</span>
         <nav style={s.nav}>
           <a href="/" style={s.navLink}>Notes</a>
-          <a href="/notes" style={s.navLink}>Notes v2</a>
-          <a href="/studio" style={s.navActive}>Studio</a>
+<a href="/notes" style={s.navLink}>Notes v2</a>
+<a href="/studio" style={s.navActive}>Studio</a>
+<a href="/linkedin" style={s.navLink}>LinkedIn</a>
         </nav>
       </div>
 
